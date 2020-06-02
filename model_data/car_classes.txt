@@ -1,0 +1,7 @@
+jeep
+bus
+familysedan
+taxi
+racingcar
+fireengine
+heavytruck
