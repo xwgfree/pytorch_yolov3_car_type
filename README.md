@@ -1,0 +1,2 @@
+# pytorch_yolov3_car_type
+使用pytorch搭建环境，yolov3 训练自己不同车型数据集
